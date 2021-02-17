@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cedna</title>
+    <link>https://www.cedna.ca/</link>
+    <description>Recent content on Cedna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
+    <lastBuildDate>Sun, 07 Feb 2021 14:51:12 +0600</lastBuildDate><atom:link href="https://www.cedna.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nouveau site internet</title>
+      <link>https://www.cedna.ca/blog/nouveau-site/</link>
+      <pubDate>Sun, 07 Feb 2021 14:51:12 +0600</pubDate>
+      
+      <guid>https://www.cedna.ca/blog/nouveau-site/</guid>
+      <description>Un premier pas Ça y est, l&amp;rsquo;expérience commence. CEDNA, c&amp;rsquo;est pour de vrai et c&amp;rsquo;est maintenant!</description>
+    </item>
+    
+    <item>
+      <title>Présentation</title>
+      <link>https://www.cedna.ca/blog/fondation/</link>
+      <pubDate>Sat, 06 Feb 2021 14:51:12 +0600</pubDate>
+      
+      <guid>https://www.cedna.ca/blog/fondation/</guid>
+      <description>Présentation La technologie numérique s’est développée de manière exponentielle au cours des dernières années. L’apparition et la démocratisation de ces nouveaux outils numériques a rendu nécessaire l’adoption de principes éthiques et juridiques adaptés.</description>
+    </item>
+    
+    <item>
+      <title>Augustin Bouchard</title>
+      <link>https://www.cedna.ca/author/augustin-bouchard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cedna.ca/author/augustin-bouchard/</guid>
+      <description>Étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal, Augustin cherche à découvrir et comprendre les nouvelles technologies et leurs impacts sur la société actuelle.</description>
+    </item>
+    
+    <item>
+      <title>Philippe Maisonneuve</title>
+      <link>https://www.cedna.ca/author/philippe-maisonneuve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cedna.ca/author/philippe-maisonneuve/</guid>
+      <description>Étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal, Philippe est un passionné de mathématiques, d&amp;rsquo;informatique et de politique.</description>
+    </item>
+    
+  </channel>
+</rss>
