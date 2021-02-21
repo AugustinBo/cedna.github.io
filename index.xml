@@ -6,8 +6,26 @@
     <description>Recent content on Cedna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 14:51:12 +0600</lastBuildDate><atom:link href="https://www.cedna.ca/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 CEDNA</copyright>
+    <lastBuildDate>Tue, 16 Feb 2021 14:51:12 +0600</lastBuildDate><atom:link href="https://www.cedna.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Désinformation, un véritable enjeu en 2021</title>
+      <link>https://www.cedna.ca/blog/article-roy/</link>
+      <pubDate>Tue, 16 Feb 2021 14:51:12 +0600</pubDate>
+      
+      <guid>https://www.cedna.ca/blog/article-roy/</guid>
+      <description>La Désinformation, un véritable enjeu en 2021 (Temps de lecture: 3 min.)L’équipe du CEDNA s’est entretenue avec Jean-Hugues Roy, professeur à l’École des médias de l’UQAM, pour discuter de l’augmentation de la désinformation à travers les réseaux sociaux et de la place qu’occupent aujourd’hui les médias traditionnels.</description>
+    </item>
+    
+    <item>
+      <title>Les algorithmes, héros de la crise climatique?</title>
+      <link>https://www.cedna.ca/blog/entrevue-jalbert/</link>
+      <pubDate>Sat, 13 Feb 2021 14:51:12 +0600</pubDate>
+      
+      <guid>https://www.cedna.ca/blog/entrevue-jalbert/</guid>
+      <description>Les algorithmes, héros de la crise climatique? (Temps de lecture: 1 min.)L’équipe du CEDNA s’est entretenue avec Jonathan Jalbert, professeur adjoint du département de mathématiques et de génie industriel à Polytechnique Montréal, spécialiste de la théorie des valeurs extrêmes, de la décision baysienne, de la statistique spaciale et d&amp;rsquo;hydrologie.</description>
+    </item>
+    
     <item>
       <title>Nouveau site internet</title>
       <link>https://www.cedna.ca/blog/nouveau-site/</link>
@@ -33,6 +51,15 @@
       
       <guid>https://www.cedna.ca/author/augustin-bouchard/</guid>
       <description>Étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal, Augustin cherche à découvrir et comprendre les nouvelles technologies et leurs impacts sur la société actuelle.</description>
+    </item>
+    
+    <item>
+      <title>Jean-Sébastien Patenaude</title>
+      <link>https://www.cedna.ca/author/jean-s%C3%A9bastien-patenaude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cedna.ca/author/jean-s%C3%A9bastien-patenaude/</guid>
+      <description>Étudiant au baccalauréat en génie informatique à l’École Polytechnique de Montréal, Jean-Sébastien est passionné de tout ce qui touche à l’analyse de données, à l’intelligence artificielle, à la robotique et à l’exploration spatiale.</description>
     </item>
     
     <item>
