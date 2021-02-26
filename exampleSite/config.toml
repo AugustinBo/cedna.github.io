@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.cedna.ca/"
-theme = "cedna-website"
+theme = "cedna.github.io"
 themesDir = "../.."
 title = "Cedna"
 # post pagination
