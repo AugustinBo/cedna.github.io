@@ -1,0 +1,9 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Pourquoi CEDNA?
+  about_item :
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : À propos de CEDNA
+    content : Le Comité sur les Enjeux du Développement Numérique et Algorithmique (CEDNA) est une organisation interuniversitaire ayant pour but de vulgariser et de sensibiliser le public aux enjeux moraux dans les domaines de l’informatique et du logiciel et ce, afin que les esprits de demain soient plus conscients des enjeux moraux lors de la conception et de l’utilisation des futures technologies. Pour ce faire, nous souhaitons effectuer des entrevues et écrire des articles sur des sujets touchant ce domaine en discutant avec différents experts afin d’acquérir et de transmettre des idées, des points de vues et des débats. 

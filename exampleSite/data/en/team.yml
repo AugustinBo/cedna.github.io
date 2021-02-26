@@ -1,0 +1,83 @@
+############################### team ############################
+team:
+  enable : true
+  title : "Notre Équipe"
+  team_member :
+    # team member loop
+    - name : Philippe Maisonneuve
+      image_webp : images/team/Philippe.webp
+      image : images/team/Philippe.png
+      designation : Président
+      content : Étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal, Philippe est un passionné de mathématiques, d’informatique et de politique. Il croit que le développement des différents aspects du numérique doit servir au plus grand nombre et il est persuadé que les nouvelles technologies ont le potentiel de régler la plupart des problèmes sociaux et environnementaux majeurs du 21e siècle si elles sont bien utilisées C'est pourquoi il a décidé de fonder le CEDNA, afin de faciliter la communication sur ces enjeux, dont on ne discute pas encore assez selon lui.
+      social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/philippe-maisonneuve-226137199/"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        
+    # team member loop
+    - name :  Jean-Sébastien Patenaude
+      image_webp : images/team/Jean-Sebastien.webp
+      image : images/team/Jean-Sebastien.jpg
+      designation : Vice-Président
+      content : Étudiant au baccalauréat en génie informatique à l’École Polytechnique de Montréal, Jean-Sébastien est passionné de tout ce qui touche à l’analyse de données, à l’intelligence artificielle, à la robotique et à l’exploration spatiale. Il considère que la technologie est un vecteur de changement, autant au niveau de l’innovation scientifique qu’au niveau humain et environnemental. Il croit que le partage de connaissances et les discussions ouvertes sont essentielles à la résolution des problèmes que rencontrent nos sociétés, quels qu’ils soient.
+      social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/public-profile/in/jean-s%C3%A9bastien-patenaude-1677671bb/"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        
+    # team member loop
+    - name : Claudia Fortin
+      image_webp : images/team/Claudia.webp
+      image : images/team/Claudia.jpg
+      designation : Gestionnaire de communauté
+      content : Étudiante au baccalauréat en droit à l’Université de Sherbrooke et diplômée d’une technique en journalisme au cégep de Jonquière du programme Art et technologie des médias, Claudia est une jeune femme qui cherche constamment de nouvelles découvertes. Féministe assumée, lectrice passionnée et sportive à temps partiel, elle est continuellement en quête de défis. Toujours prête à poser de nombreuses questions aux invités, elle est aussi une fervente des domaines de l’actualité.
+      social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/claudia-fortin-b94bb6179/"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        
+    # team member loop
+    - name : Augustin Bouchard
+      image_webp : images/team/Augustin.webp
+      image : images/team/Augustin.jpg
+      designation : Recherchiste/TI
+      content : Étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal, Augustin cherche à découvrir et comprendre les nouvelles technologies et leurs impacts sur la société actuelle. Il réalise que dans un monde de plus en plus connecté, notre sécurité et nos informations sont de plus en plus menacées. Quand devons-nous arrêter de partager? Sommes-nous vraiment en danger? Amateur du virtuel, Augustin croit qu’il faut être bien informé avant de trop en consommer.
+      social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/augustinbouchard/"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+
+    - name : Dylan Barat
+      image_webp : images/team/Dylan.webp
+      image : images/team/Dylan.jpg
+      designation : Monteur
+      content : Étudiant au baccalauréat en Finance à HEC Montréal, Dylan a un grand intérêt pour l’évolution de la technologie et le monde politique dans lequel ce progrès opère. Il est toujours avide de nouvelles opportunités, sa curiosité lui donnant le flair nécessaire à la poursuite de ses objectifs. Il se questionne souvent sur la moralité de l’évolution de notre monde. Selon lui, l’adoption d’une perspective éthique dans la vie de tous les jours représente une nécessité primordiale à la pérennité d’une société fonctionnelle.
+      social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"

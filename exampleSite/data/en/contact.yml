@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contactez-nous
+  subtitle : Nos informations
+  content : Nous sommes toujours intéressés à discuter. Si vous voulez communiquer avec nous, nous vous invitons à nous contacter par courriel à l’adresse qui figure ci-dessous ou à nous laisser vos informations ci-contre et nous vous contacterons dès que possible!
+
+  # Contact details
+  contact_list:
+    # - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+    #   info : "Adresse: 207 Rue St-thomas Longueuil, J4H 2Z8"
+      
+    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    #   info : "Téléphone: +1-514-246-5886"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: cedna.mtl@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/mqkggwnj" #contact form works with https://formspree.io
+    name : "Votre nom"
+    email : "Votre email"
+    subject : "Matière"
+    message : "Message"
+    submit : "Soumettre"
