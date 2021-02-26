@@ -35,5 +35,4 @@ description : "L'accessibilité aux réseaux sociaux ainsi que l’engouement de
 
 <font size="3">Extraits de l’entrevue du 7 janvier 2021 avec Jean-Hugues Roy, professeur à l’École des médias de l’UQAM.</font>
 
-
-
+{{< youtube nUC-PDCDJio>}}
