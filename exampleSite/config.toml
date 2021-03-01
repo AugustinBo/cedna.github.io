@@ -176,7 +176,7 @@ link = "https://www.facebook.com/CEDNA-101966855218103"
 
 [[params.social]]
 icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.instagram.com/cedna_officiel/?hl=fr" 
+link = "https://www.instagram.com/cedna_ca/?hl=fr" 
 
 #[[params.social]]
 #icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
@@ -201,7 +201,7 @@ link = "https://www.youtube.com/channel/UCAlWpiXHPqsqCTYtYDZyBsA"
 ################################ France Language ########################
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by Themefisher & Developed by Gethugothemes"
+copyright = "Copyright &copy; 2021 Designed by Themefisher & Developed by Gethugothemes"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -210,7 +210,7 @@ weight = 1
 ################################ English Language ########################
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by Themefisher & Developed by Gethugothemes"
+copyright = "Copyright &copy; 2021 Designed by Themefisher & Developed by Gethugothemes"
 home = "Accueil"
 languageCode = "en-us"
 languageName = "En"
