@@ -10,14 +10,8 @@ team:
       designation : Président
       content : Passionné d’information, de mathématiques et d’intelligence artificielle, Philippe Maisonneuve a toujours pensé que les algorithmes ont une influence bien plus grande qu’on pourrait le penser sur la société. Afin de développer son entreprise de la question, il commence ses études au baccalauréat en génie logiciel en septembre 2018. En 2020, pour partager sa passion il décide de former le CEDNA afin de s’assurer que le plus grand nombre de gens puisse comprendre les enjeux de l’informatique et réfléchir ensemble à la manière dont le monde numérique doit être régulé. Il est persuadé que les algorithmes ont les moyens de nous aider à lutter contre les défis du monde de demain si on les utilise à bon escient et il veut s’assurer que ce soit le cas.
       social :
-        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
-        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/philippe-maisonneuve-226137199/"
-        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
         
     # team member loop
     - name :  Jean-Sébastien Patenaude
@@ -26,14 +20,8 @@ team:
       designation : Vice-Président Exécutif
       content : Passionné de tout ce qui touche à l’analyse de données, à l’intelligence artificielle, à la robotique et à l’exploration spatiale, Jean-Sébastien est également étudiant au baccalauréat en génie informatique à l’École Polytechnique de Montréal. Il considère que la technologie est un vecteur de changement, autant au niveau de l’innovation scientifique qu’au niveau humain et environnemental. Il croit que le partage de connaissances et les discussions ouvertes sont essentiels à la résolution des défis que rencontre l’espèce humaine, quels qu’ils soient.
       social :
-        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
-        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/public-profile/in/jean-s%C3%A9bastien-patenaude-1677671bb/"
-        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
 
     # team member loop
     - name : Dylan Barat
@@ -42,14 +30,8 @@ team:
       designation : Vice-Président Communication
       content : Étudiant au baccalauréat en Finance à HEC Montréal, Dylan a un grand intérêt pour l’évolution de la technologie et le monde politique dans lequel ce progrès opère. Sa curiosité lui donnant le flair nécessaire à la poursuite de ses objectifs, il est toujours avide de nouvelles opportunités. Il se questionne souvent sur la moralité de l’évolution de notre monde. Selon lui, l’adoption d’une perspective éthique dans la vie de tous les jours représente une nécessité primordiale à la pérennité d’une société fonctionnelle.
       social :
-        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
-        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/dylan-barat-3889b2208/"
-        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
         
     # team member loop
     - name : Augustin Bouchard
@@ -58,14 +40,8 @@ team:
       designation : Spécialiste TI, Animateur
       content : Étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal, Augustin cherche à découvrir et comprendre les nouvelles technologies et leurs impacts sur la société actuelle. Il réalise que dans un monde de plus en plus connecté, notre sécurité et nos informations sont de plus en plus menacées. Quand devons-nous arrêter de partager? Sommes-nous vraiment en danger? Amateur du virtuel, Augustin croit qu’il faut être bien informé avant de trop en consommer. 
       social :
-        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
-        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/augustinbouchard/"
-        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
 
     # team member loop
     - name : Claudia Fortin
@@ -74,11 +50,37 @@ team:
       designation : Gestionnaire de communauté
       content : Étudiante au baccalauréat en droit à l’Université de Sherbrooke et diplômée d’une technique en journalisme au cégep de Jonquière du programme Art et technologie des médias, Claudia est une jeune femme qui cherche constamment de nouvelles découvertes. Féministe assumée, lectrice passionnée et sportive à temps partiel, elle est une jeune femme en quête de défis. Toujours prête à poser de nombreuses questions aux invités, elle est aussi une fervente des domaines de l’actualité. 
       social :
-        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
-        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/claudia-fortin-b94bb6179/"
-        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
+
+    # team member loop
+    - name : Marjorie Pomerleau
+      image_webp : images/team/Marjorie.webp
+      image : images/team/Marjorie.jpg
+      designation : Animatrice, Rédactrice
+      content : Étudiante au baccalauréat en génie logiciel à Polytechnique, Marjorie cherche à élargir ses connaissances dans tous les aspects du domaine de l’informatique et du logiciel pour assouvir sa curiosité. Faire partie du CEDNA lui permet d’apprendre sur différents enjeux du domaine et de connaître de nouvelles technologies émergentes. Ayant un large spectre d’intérêts, Marjorie aspire dans sa vie personnelle et professionnelle à amalgamer sa créativité et son ambition à ses projets.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/marjorie-pomerleau-680b98193/"
+
+    # team member loop
+    - name : Matteo Miceli
+      image_webp : images/team/Matteo.webp
+      image : images/team/Matteo.jpg
+      designation : Animateur, Rédacteur
+      content : Originaire des Caraïbes, sur un île de 24km2, Mattéo est venu s'installer au Québec pour poursuivre ses études à l’âge de 15 ans. Actuellement étudiant à l’Université de Concordia en journalisme et âgé de 19 ans, Mattéo a eu la chance de gérer un émission de radio hebdomadaire entière, tout en étant animateur. Le CEDNA est une manière pour lui de pouvoir apprendre de nouvelles choses, les choses qui vont révolutionner notre ère et notre génération. C’est une façon pour lui, de monter de “level”.
+
+    # team member loop
+    - name : Aurélie Gonthier-Théberge
+      image_webp : images/team/Aurelie.webp
+      image : images/team/Aurelie.jpg
+      designation : Recherchiste
+      content : Stéréotype de la génération Y ou “why?”, Aurélie a une curiosité immense pour des sujets allant des connaissances triviales aux fondements de la physique moderne. Elle ne cessera jamais de se poser des questions quant au fonctionnement de notre univers. Vieille croûte de 28 ans, elle s’est lancée en génie physique afin de sauver le monde, rien de moins! Personne dynamique, caricaturale et quelque peu excentrique, elle a rejoint le CEDNA pour plusieurs raisons. Parmi celles-ci, il y a rendre accessible la science, sensibiliser la population aux impacts qu’elle entraîne et bien sûr, partager sa soif insatiable de connaissances.
+
+    # team member loop
+    - name : Fernando Foy
+      image_webp : images/team/Fernando.webp
+      image : images/team/Fernando.jpg
+      designation : Rédacteur
+      content : Fernando est étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal. La loi de Moore est arrivée à sa fin. Depuis les années 60, le doublement de la complexité des semi-conducteurs a créé des outils essentiels comme les téléphones intelligents et l’imagerie médicale. Or, les limites de la physique ont mis un frein à ce progrès. Fernando est intéressé à la résolution de ce problème en utilisant le parallélisme et la computation quantique. Il a rejoint le CEDNA pour rendre l’opinion des experts accessible à tout le monde.
+
