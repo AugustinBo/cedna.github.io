@@ -69,6 +69,9 @@ team:
       image : images/team/Matteo.jpg
       designation : Animateur, Rédacteur
       content : Originaire des Caraïbes, sur un île de 24km2, Mattéo est venu s'installer au Québec pour poursuivre ses études à l’âge de 15 ans. Actuellement étudiant à l’Université de Concordia en journalisme et âgé de 19 ans, Mattéo a eu la chance de gérer un émission de radio hebdomadaire entière, tout en étant animateur. Le CEDNA est une manière pour lui de pouvoir apprendre de nouvelles choses, les choses qui vont révolutionner notre ère et notre génération. C’est une façon pour lui, de monter de “level”.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : ""
 
     # team member loop
     - name : Aurélie Gonthier-Théberge
@@ -76,6 +79,9 @@ team:
       image : images/team/Aurelie.jpg
       designation : Recherchiste
       content : Stéréotype de la génération Y ou “why?”, Aurélie a une curiosité immense pour des sujets allant des connaissances triviales aux fondements de la physique moderne. Elle ne cessera jamais de se poser des questions quant au fonctionnement de notre univers. Vieille croûte de 28 ans, elle s’est lancée en génie physique afin de sauver le monde, rien de moins! Personne dynamique, caricaturale et quelque peu excentrique, elle a rejoint le CEDNA pour plusieurs raisons. Parmi celles-ci, il y a rendre accessible la science, sensibiliser la population aux impacts qu’elle entraîne et bien sûr, partager sa soif insatiable de connaissances.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : ""
 
     # team member loop
     - name : Fernando Foy
@@ -83,4 +89,6 @@ team:
       image : images/team/Fernando.jpg
       designation : Rédacteur
       content : Fernando est étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal. La loi de Moore est arrivée à sa fin. Depuis les années 60, le doublement de la complexité des semi-conducteurs a créé des outils essentiels comme les téléphones intelligents et l’imagerie médicale. Or, les limites de la physique ont mis un frein à ce progrès. Fernando est intéressé à la résolution de ce problème en utilisant le parallélisme et la computation quantique. Il a rejoint le CEDNA pour rendre l’opinion des experts accessible à tout le monde.
-
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : ""
