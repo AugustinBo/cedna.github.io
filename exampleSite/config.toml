@@ -186,9 +186,9 @@ link = "https://www.instagram.com/cedna_ca/?hl=fr"
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCAlWpiXHPqsqCTYtYDZyBsA" 
 
-#[[params.social]]
-#icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-#link = "#" 
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/cednamtl/" 
 
 #[[params.social]]
 #icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
