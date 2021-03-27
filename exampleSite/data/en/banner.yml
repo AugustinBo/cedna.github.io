@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "CEDNA"
-  content : "Le Comité sur les Enjeux du Développement Numérique et Algorithmique"
+  content : "Le Conseil sur les Enjeux du Développement Numérique et Algorithmique"
   button:
     enable : true
     label : "Découvrez-nous"
