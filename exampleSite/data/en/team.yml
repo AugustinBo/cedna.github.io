@@ -32,7 +32,17 @@ team:
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/dylan-barat-3889b2208/"
-        
+    
+    # team member loop
+    - name : Oumaima Doghmane
+      image_webp : images/team/Oumaima.webp
+      image : images/team/Oumaima.jpg
+      designation : Vice-Présidente Affaires Juridiques
+      content : Étudiante en Droit-MBA à l’Université de Sherbrooke, Oumaima a développé un intérêt marqué pour la propriété intellectuelle et le monde des affaires. Lors de ses expériences dans le milieu juridique, elle a rapidement remarqué les impacts que l’intelligence artificielle a sur la législation actuelle. Étant d’avis que le droit, la technologie et l’entrepreneuriat sont trois domaines intimement reliés, elle désire favoriser le dialogue et le partage de connaissances dans ceux-ci afin de promouvoir l’innovation.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/oumaima-doghmane-85a7281b1/"
+    
     # team member loop
     - name : Augustin Bouchard
       image_webp : images/team/Augustin.webp
