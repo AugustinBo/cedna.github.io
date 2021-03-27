@@ -2,8 +2,8 @@
 title: "Nouveau site internet"
 date: 2021-02-07T14:51:12+06:00
 author: Augustin Bouchard
-image_webp: images/blog/site.webp
-image: images/blog/site.jpg
+image_webp: images/blog/website.webp
+image: images/blog/website.jpg
 description : "Sur la bonne voie!"
 ---
 
