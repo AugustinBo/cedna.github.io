@@ -5,14 +5,15 @@ about:
   about_item :
 
   - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
-    title : Découvrir
-    content : Le Conseil sur les Enjeux du Développement Numérique et Algorithmique (CEDNA) est une organisation interuniversitaire qui s'est donné comme mission de vulgariser et de sensibiliser le public aux enjeux moraux dans les domaines de l’informatique et du logiciel. Son but est que les esprits de demain soient plus conscients de ces enjeux lors de la conception et de l’utilisation des futures technologies.
+    title : Sensibiliser
+    content : Le Conseil sur les Enjeux du Développement Numérique et Algorithmique (CEDNA) est une organisation sans but lucratif qui s'est donné comme mission de sensibiliser le public aux divers enjeux conduits par les nouvelles technologies, qui ont un impact significatif sur plusieurs domaines. Pour ce faire, le CEDNA cherche à ouvrir le débat par le biais d’entrevues, de conférences et d’articles traitant de l’aspect éthique des développements numériques.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Comprendre
-    content : Nous souhaitons comprendre d'où viennent certains enjeux reliés au numérique au travers de discussions avec des experts dans le domaine. Nous voulons transmettre leurs idées et leurs points de vue à travers des entrevues et des articles. Ce qui est important pour nous c'est de bien comprendre un sujet avant de pouvoir en débattre afin de découvrir les meilleures pistes de solution à apporter.
+    title : Rassembler
+    content : Le CEDNA se veut une plateforme ouverte qui réunit les étudiants, les professionnels, les chercheurs, les experts de l’éthique et du numérique ainsi que le grand public afin de favoriser les échanges entre ces différents acteurs quant aux normes et pratiques éthiques dans le domaine du numérique. L’objectif est de rassembler des individus possédant un ardent désir d’améliorer la société afin de formuler des pistes de solutions face aux enjeux générés par le développement du numérique et des algorithmes.
 
 
   - icon : ti-hand-open # themify icon pack : https://themify.me/themify-icons
-    title : Vulgariser
-    content : Nous souhaitons partager avec le plus de gens possibles nos découvertes et nos discussions. Nous voulons permettre au public de comprendre les enjeux soulevés par les experts, sans avoir besoin d'une compréhension complète des technologies abordées. Nous voulons par-dessus tout partager cette volonté de comprendre les enjeux et d'en discuter pour trouver, en communauté, des pistes de solutions.
+    title : Guider
+    content : Avec l’aide d’experts, de décideurs ainsi que d’autres leaders d’opinions, l’organisation espère devenir la référence pour les entreprises œuvrant dans le domaine des technologies, en élaborant des normes de contrôle par rapport à l’éthique du numérique. Le CEDNA souhaite guider le développement des nouvelles technologies afin qu’elles respectent certaines normes éthiques et qu’elles soient utilisées à bon escient.
+
