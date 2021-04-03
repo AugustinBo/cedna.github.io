@@ -4,16 +4,16 @@ about:
   title : Pourquoi CEDNA
   about_item :
 
-  - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Sensibiliser
     content : Le Conseil sur les Enjeux du Développement Numérique et Algorithmique (CEDNA) est une organisation sans but lucratif qui s'est donné comme mission de sensibiliser le public aux divers enjeux conduits par les nouvelles technologies, qui ont un impact significatif sur plusieurs domaines. Pour ce faire, le CEDNA cherche à ouvrir le débat par le biais d’entrevues, de conférences et d’articles traitant de l’aspect éthique des développements numériques.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
     title : Rassembler
     content : Le CEDNA se veut une plateforme ouverte qui réunit les étudiants, les professionnels, les chercheurs, les experts de l’éthique et du numérique ainsi que le grand public afin de favoriser les échanges entre ces différents acteurs quant aux normes et pratiques éthiques dans le domaine du numérique. L’objectif est de rassembler des individus possédant un ardent désir d’améliorer la société afin de formuler des pistes de solutions face aux enjeux générés par le développement du numérique et des algorithmes.
 
 
-  - icon : ti-hand-open # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-direction # themify icon pack : https://themify.me/themify-icons
     title : Guider
     content : Avec l’aide d’experts, de décideurs ainsi que d’autres leaders d’opinions, l’organisation espère devenir la référence pour les entreprises œuvrant dans le domaine des technologies, en élaborant des normes de contrôle par rapport à l’éthique du numérique. Le CEDNA souhaite guider le développement des nouvelles technologies afin qu’elles respectent certaines normes éthiques et qu’elles soient utilisées à bon escient.
 
