@@ -3,13 +3,13 @@
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
-  translation: Voir tous les articles
+  translation: Voir toutes les publications
 - id: share
   translation: Partager
 - id: aboutAuthor
   translation: À propos de l'auteur
 - id: authorsPosts
-  translation: Articles de l'auteur
+  translation: Publications de l'auteur
 - id: all
   translation: All
 - id: about
