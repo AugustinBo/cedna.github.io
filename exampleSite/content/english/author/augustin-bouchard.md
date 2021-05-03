@@ -1,7 +1,7 @@
 ---
 title: "Augustin Bouchard"
-image_webp : images/team/Augustin.webp
-image : images/team/Augustin.jpg
+image_webp : images/team/augustin_bouchard_cedna_team.webp
+image : images/team/augustin_bouchard_cedna_team.jpg
 designation : Spécialiste TI, Animateur
 # email: "augustin.bouchard@cedna.ca"
 social:

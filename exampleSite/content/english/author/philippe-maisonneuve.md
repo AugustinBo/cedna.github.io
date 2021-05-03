@@ -1,7 +1,7 @@
 ---
 title: "Philippe Maisonneuve"
-image_webp : images/team/Philippe.webp
-image : images/team/Philippe.jpg
+image_webp : images/team/philippe_maisonneuve_cedna_team.webp
+image : images/team/philippe_maisonneuve_cedna_team.jpg
 designation : Président
 # email: "philippe.maisonneuve@cedna.ca"
 social:

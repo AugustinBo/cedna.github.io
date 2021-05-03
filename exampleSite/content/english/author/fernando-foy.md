@@ -1,7 +1,7 @@
 ---
 title: "Fernando Foy"
-image_webp : images/team/Fernando.webp
-image : images/team/Fernando.jpg
+image_webp : images/team/fernando_foy_cedna_team.webp
+image : images/team/fernando_foy_cedna_team.jpg
 designation : Rédacteur
 # email: "fernando.foy@cedna.ca"
 social:

@@ -1,7 +1,7 @@
 ---
 title: "Dylan Barat"
-image_webp : images/team/Dylan.webp
-image : images/team/Dylan.jpg
+image_webp : images/team/dylan_barat_cedna_team.webp
+image : images/team/dylan_barat_cedna_team.jpg
 designation : Vice-Président Communication
 social:
   # - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons

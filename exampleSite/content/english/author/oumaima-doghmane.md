@@ -1,7 +1,7 @@
 ---
 title: "Oumaima Doghmane"
-image_webp : images/team/Oumaima.webp
-image : images/team/Oumaima.jpg
+image_webp : images/team/oumaima_doghmane_cedna_team.webp
+image : images/team/oumaima_doghmane_cedna_team.jpg
 designation : Vice-Présidente Affaires Juridiques
 # email: "oumaima.doghmane@cedna.ca"
 social:
