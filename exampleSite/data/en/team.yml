@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Philippe Maisonneuve
-      image_webp : images/team/Philippe.webp
-      image : images/team/Philippe.jpg
+      image_webp : images/team/philippe_maisonneuve_cedna_team.webp
+      image : images/team/philippe_maisonneuve_cedna_team.jpg
       designation : Président
       content : Passionné d’information, de mathématiques et d’intelligence artificielle, Philippe Maisonneuve a toujours pensé que les algorithmes ont une influence bien plus grande qu’on pourrait le penser sur la société. Afin de développer son entreprise de la question, il commence ses études au baccalauréat en génie logiciel en septembre 2018. En 2020, pour partager sa passion il décide de former le CEDNA afin de s’assurer que le plus grand nombre de gens puisse comprendre les enjeux de l’informatique et réfléchir ensemble à la manière dont le monde numérique doit être régulé. Il est persuadé que les algorithmes ont les moyens de nous aider à lutter contre les défis du monde de demain si on les utilise à bon escient et il veut s’assurer que ce soit le cas.
       social :
@@ -15,18 +15,18 @@ team:
         
     # team member loop
     - name :  Jean-Sébastien Patenaude
-      image_webp : images/team/Jean-Sebastien.webp
-      image : images/team/Jean-Sebastien.jpg
+      image_webp : images/team/jean-sebastien_patenaude_cedna_team.webp
+      image : images/team/jean-sebastien_patenaude_cedna_team.jpg
       designation : Vice-Président Exécutif
-      content : Passionné de tout ce qui touche à l’analyse de données, à l’intelligence artificielle, à la robotique et à l’exploration spatiale, Jean-Sébastien est également étudiant au baccalauréat en génie informatique à l’École Polytechnique de Montréal. Il considère que la technologie est un vecteur de changement, autant au niveau de l’innovation scientifique qu’au niveau humain et environnemental. Il croit que le partage de connaissances et les discussions ouvertes sont essentiels à la résolution des défis que rencontre l’espèce humaine, quels qu’ils soient.
+      content : Passionné de tout ce qui touche à l’analyse de données, à l’intelligence artificielle et à l’exploration spatiale, Jean-Sébastien est étudiant au baccalauréat en génie informatique à l’École Polytechnique de Montréal. Il considère que la technologie est un vecteur de changement, autant au niveau de l’innovation scientifique qu’au niveau humain et environnemental. Il croit que les discussions ouvertes et les partages de connaissances sont essentiels à la résolution des problématiques les plus sérieuses que rencontre l’espèce humaine.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/public-profile/in/jean-s%C3%A9bastien-patenaude-1677671bb/"
 
     # team member loop
     - name : Dylan Barat
-      image_webp : images/team/Dylan.webp
-      image : images/team/Dylan.jpg
+      image_webp : images/team/dylan_barat_cedna_team.webp
+      image : images/team/dylan_barat_cedna_team.jpg
       designation : Vice-Président Communication
       content : Étudiant au baccalauréat en Finance à HEC Montréal, Dylan a un grand intérêt pour l’évolution de la technologie et le monde politique dans lequel ce progrès opère. Sa curiosité lui donnant le flair nécessaire à la poursuite de ses objectifs, il est toujours avide de nouvelles opportunités. Il se questionne souvent sur la moralité de l’évolution de notre monde. Selon lui, l’adoption d’une perspective éthique dans la vie de tous les jours représente une nécessité primordiale à la pérennité d’une société fonctionnelle.
       social :
@@ -35,8 +35,8 @@ team:
     
     # team member loop
     - name : Oumaima Doghmane
-      image_webp : images/team/Oumaima.webp
-      image : images/team/Oumaima.jpg
+      image_webp : images/team/oumaima_doghmane_cedna_team.webp
+      image : images/team/oumaima_doghmane_cedna_team.jpg
       designation : Vice-Présidente Affaires Juridiques
       content : Étudiante en Droit-MBA à l’Université de Sherbrooke, Oumaima a développé un intérêt marqué pour la propriété intellectuelle et le monde des affaires. Lors de ses expériences dans le milieu juridique, elle a rapidement remarqué les impacts que l’intelligence artificielle a sur la législation actuelle. Étant d’avis que le droit, la technologie et l’entrepreneuriat sont trois domaines intimement reliés, elle désire favoriser le dialogue et le partage de connaissances dans ceux-ci afin de promouvoir l’innovation.
       social :
@@ -55,8 +55,8 @@ team:
 
     # team member loop
     - name : Claudia Fortin
-      image_webp : images/team/Claudia.webp
-      image : images/team/Claudia.jpg
+      image_webp : images/team/claudia_fortin_cedna_team.webp
+      image : images/team/claudia_fortin_cedna_team.jpg
       designation : Gestionnaire de communauté
       content : Étudiante au baccalauréat en droit à l’Université de Sherbrooke et diplômée d’une technique en journalisme au cégep de Jonquière du programme Art et technologie des médias, Claudia est une jeune femme qui cherche constamment de nouvelles découvertes. Féministe assumée, lectrice passionnée et sportive à temps partiel, elle est une jeune femme en quête de défis. Toujours prête à poser de nombreuses questions aux invités, elle est aussi une fervente des domaines de l’actualité. 
       social :
@@ -65,8 +65,8 @@ team:
 
     # team member loop
     - name : Marjorie Pomerleau
-      image_webp : images/team/Marjorie.webp
-      image : images/team/Marjorie.jpg
+      image_webp : images/team/marjorie_pomerleau_cedna_team.webp
+      image : images/team/marjorie_pomerleau_cedna_team.jpg
       designation : Animatrice, Rédactrice
       content : Étudiante au baccalauréat en génie logiciel à Polytechnique, Marjorie cherche à élargir ses connaissances dans tous les aspects du domaine de l’informatique et du logiciel pour assouvir sa curiosité. Faire partie du CEDNA lui permet d’apprendre sur différents enjeux du domaine et de connaître de nouvelles technologies émergentes. Ayant un large spectre d’intérêts, Marjorie aspire dans sa vie personnelle et professionnelle à amalgamer sa créativité et son ambition à ses projets.
       social :
@@ -75,8 +75,8 @@ team:
 
     # team member loop
     - name : Matteo Miceli
-      image_webp : images/team/Matteo.webp
-      image : images/team/Matteo.png
+      image_webp : images/team/matteo_miceli_cedna_team.webp
+      image : images/team/matteo_miceli_cedna_team.jpg
       designation : Animateur, Rédacteur
       content : Originaire des Caraïbes, sur une île de 24km2, Mattéo est venu s'installer au Québec pour poursuivre ses études à l’âge de 15 ans. Actuellement étudiant à l’Université de Concordia en journalisme et âgé de 19 ans, Mattéo a eu la chance de gérer un émission de radio hebdomadaire entière, tout en étant animateur. Le CEDNA est une manière pour lui de pouvoir apprendre de nouvelles choses, les choses qui vont révolutionner notre ère et notre génération. C’est une façon pour lui, de monter de “level”.
       social :
@@ -85,8 +85,8 @@ team:
 
     # team member loop
     - name : Aurélie Gonthier-Théberge
-      image_webp : images/team/Aurelie.webp
-      image : images/team/Aurelie.png
+      image_webp : images/team/aurelie_gonthier_theberge_cedna_team.webp
+      image : images/team/aurelie_gonthier_theberge_cedna_team.jpg
       designation : Recherchiste
       content : Stéréotype de la génération Y ou “why?”, Aurélie a une curiosité immense pour des sujets allant des connaissances triviales aux fondements de la physique moderne. Elle ne cessera jamais de se poser des questions quant au fonctionnement de notre univers. Vieille croûte de 28 ans, elle s’est lancée en génie physique afin de sauver le monde, rien de moins! Personne dynamique, caricaturale et quelque peu excentrique, elle a rejoint le CEDNA pour plusieurs raisons. Parmi celles-ci, il y a rendre accessible la science, sensibiliser la population aux impacts qu’elle entraîne et bien sûr, partager sa soif insatiable de connaissances.
       social :
@@ -95,10 +95,24 @@ team:
 
     # team member loop
     - name : Fernando Foy
-      image_webp : images/team/Fernando.webp
-      image : images/team/Fernando.jpg
+      image_webp : images/team/fernando_foy_cedna_team.webp
+      image : images/team/fernando_foy_cedna_team.jpg
       designation : Rédacteur
       content : Fernando est étudiant au baccalauréat en génie logiciel à l’École Polytechnique de Montréal. La loi de Moore est arrivée à sa fin. Depuis les années 60, le doublement de la complexité des semi-conducteurs a créé des outils essentiels comme les téléphones intelligents et l’imagerie médicale. Or, les limites de la physique ont mis un frein à ce progrès. Fernando est intéressé à la résolution de ce problème en utilisant le parallélisme et la computation quantique. Il a rejoint le CEDNA pour rendre l’opinion des experts accessible à tout le monde.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/fernando-foy-5b3389208/"
+    
+    # team member loop
+    - name : Maria Pintea
+      image_webp : images/team/maria_pintea_cedna_team.webp
+      image : images/team/maria_pintea_cedna_team.jpg
+      designation : Membre Affaires Juridiques
+      content : Fière Roumaine, Maria a toujours été passionnée par le domaine international, spécialement par la politique et l’économie. Étudiante en droit à l’Université de Sherbrooke ainsi qu’en Études Internationales à l’Université de Montréal, elle souhaite combiner ses compétences pour aborder les enjeux financiers et légaux entourant l’intelligence artificielle (IA). L’IA étant omniprésente dans la vie de tous, Maria vise à sensibiliser la population et à vulgariser les impacts sur les particuliers et la société.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/maria-alexandra-pintea-9641b3186/"
+
+
+
+
