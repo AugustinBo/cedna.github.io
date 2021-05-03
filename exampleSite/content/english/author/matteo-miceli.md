@@ -1,7 +1,7 @@
 ---
 title: "Matteo Miceli"
 image_webp : images/team/matteo_miceli_cedna_team.webp
-image : images/team/matteo_miceli_cedna_team.png
+image : images/team/matteo_miceli_cedna_team.jpg
 designation : Animateur, Rédacteur
 # email: "matteo.miceli@cedna.ca"
 social:
