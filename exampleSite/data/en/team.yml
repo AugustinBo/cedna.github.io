@@ -117,7 +117,7 @@ team:
     - name : Maria Pintea
       image_webp : images/team/maria_pintea_cedna_team.webp
       image : images/team/maria_pintea_cedna_team.jpg
-      designation : Membre Affaires Juridiques
+      designation : Responsable aux Affaires Juridiques
       content : Fière Roumaine, Maria a toujours été passionnée par le domaine international, spécialement par la politique et l’économie. Étudiante en droit à l’Université de Sherbrooke ainsi qu’en Études Internationales à l’Université de Montréal, elle souhaite combiner ses compétences pour aborder les enjeux financiers et légaux entourant l’intelligence artificielle (IA). L’IA étant omniprésente dans la vie de tous, Maria vise à sensibiliser la population et à vulgariser les impacts sur les particuliers et la société.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
