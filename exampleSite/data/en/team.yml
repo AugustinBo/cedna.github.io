@@ -104,6 +104,16 @@ team:
           link : "https://www.linkedin.com/in/fernando-foy-5b3389208/"
     
     # team member loop
+    - name : Rahina Leveille
+      image_webp : images/team/rahina_leveille_cedna_team.webp
+      image : images/team/rahina_leveille_cedna_team.jpg
+      designation : Responsable à la Comptabilité
+      content : Fraîchement diplômée d’un baccalauréat en sciences comptables à l’Université du Québec à Trois-Rivières, Rahina est une jeune femme dynamique et avide de nouvelles connaissances et de nouveaux défis. D’origine haïtienne, elle accumule de l’expérience dans le monde des chiffres tout en continuant d’exprimer son côté artistique à travers la danse et le mannequinat. Le CEDNA est une occasion pour elle d’acquérir de nouveaux savoirs tout en la conscientisant à l’ère technologique.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : ""
+
+    # team member loop
     - name : Maria Pintea
       image_webp : images/team/maria_pintea_cedna_team.webp
       image : images/team/maria_pintea_cedna_team.jpg
